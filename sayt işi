@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="az">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Milad,Milad Restaurant,restaurant,menyu,milad menyu,haqqimizda,əlaqə,instagram">
+    <meta name="description" content="Ünvan: Baki şəhəri, Buzovna qəsəbəsi, Rasim İmanov küçəsi, Park cinemanin yani">
+    <title>Milad Restaurant</title>
+    <!-- . class
+         # id -->
+    <link rel="stylesheet" href="style.css"
+</head>
+<!-- 
+        Alt + Shift + F = seliqeye salmaq
+        Ctrl + Alt + yuxari = asagi ox 3-4 setirde eyni anda yaz
+        Alt + yuxari asagi ox = yazini yuxari asagi apar
+        Ctrl + D = eyni yazilari secmek
+        Ctrl + Shift + K = setri silmek
+        Ctrl + Enter = teze setir 
+    -->
+<!-- 
+        hr - düz xett cekmek 
+        br - əlavə 1 setr boşluq 
+        strong - yazını qalınlaşdırır
+        i - əlyazmaya çevirir
+        b - yazını qalınlaşdırır
+        mark - üstün sarı ile xetliyir
+        a - tagin icindeki elemente tiklasan linke gedir
+        ol - list düzeldir nömreli
+        ul - list düzeldir nömresiz nöqtelerle
+    -->
+
+<body>
+    <!--bas sehife baslayir-->
+    <div class="container">
+        <div class="navbar">
+            <div class="logo">
+                <a href="#">Milad</a>
+            </div>
+            <ul>
+                <li><a href="#" class="active">Ana səhifə</a></li>
+                <li><a href="#">Haqqımızda</a></li>
+                <li><a href="#">Menyu</a></li>
+                <li><a href="#">Əlaqə</a></li>
+            </ul>
+        </div>
+        <div class="center">
+            <h1>Milad Restoran</h1>
+            <h2>Sehifemiz hele tam hazır deyil</h2>
+            <h3>Müvəqqəti narahatlıq üçün</h3>
+            <h4>Üzr isteyirik</h4>
+            <div class="buttons">
+                <center><button>Gözlemede qal..</button></center>
+                <center><button>Davami gelecek</button></center>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
